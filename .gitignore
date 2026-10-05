@@ -1,0 +1,52 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Build files
+build/
+*.spec
+
+# PyInstaller
+*.manifest
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+store.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local configuration
+config.local.*
+settings.local.*
+
+# Secrets / credentials
+secrets/
+credentials/
+*.pem
+*.key
