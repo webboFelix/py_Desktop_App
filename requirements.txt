@@ -1,0 +1,9 @@
+# pip install
+tkinter
+tkmessagebox
+pyinstaller
+
+# to use pyinstaller
+# run
+#! pyinstaller main.py --onefile --windowed
+#mag: this creates exe file
